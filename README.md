@@ -19,4 +19,4 @@ Focus! Then find the number :)
 ![image](https://github.com/AhmedMohammed204/CountDigitsInMatrix/assets/149516109/0829f3f0-e261-4d34-9275-d92ba337745b)
 
 
-Then It Will Mix The Buttons Automatically :)
+Then It Will Mix The Buttons Automatically.
